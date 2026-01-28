@@ -1,2 +1,2 @@
 # Test-Task-for-DS-time-series-forecasting-2026-01
-Адаптований датасет містить дані про продажі товарів з 1 січня 2014 року по 15 травня 2016 року, включаючи календар особливих подій (свят), які могли вплинути на продажі певних категорій. Завдання — для кожного часового ряду спрогнозувати сукупний обсяг продажів (кількість одиниць) на тиждень з 16 по 22 травня 2016 року
+The adapted dataset contains data on sales of goods from January 1, 2014, to May 15, 2016, including a calendar of special events (holidays) that could have affected sales in certain categories. The task is to forecast the total sales volume (number of units) for each time series for the week of May 16-22, 2016.
